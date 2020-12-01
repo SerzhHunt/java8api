@@ -1,0 +1,10 @@
+/bin
+/.idea
+/.settings
+/target
+/java8api.iml
+/src/main/resources/abbreviations.txt
+/start.log
+/end.log
+/.classpath
+/.project
